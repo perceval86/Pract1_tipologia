@@ -85,5 +85,5 @@ Con 200 juegos tarda unos 10 minutos por las pausas entre peticiones.
 
 ## Dataset
 
-- Zenodo DOI: _(pendiente: https://doi.org/...)_
+- Zenodo DOI: https://doi.org/10.5281/zenodo.23833644
 - Licencia: CC BY-NC-SA 4.0
