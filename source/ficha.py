@@ -74,8 +74,6 @@ def leer_ficha(contenido_html):
         datos["error"] = "verificacion de edad"
         return datos
 
-    datos["descripcion_corta"] = texto(html, ".game_description_snippet")
-
     bloque = html.select_one("#genresAndManufacturer")
     if bloque:
         datos["generos"] = dato_ficha(bloque, "Género")

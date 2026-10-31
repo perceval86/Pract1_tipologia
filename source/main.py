@@ -28,7 +28,7 @@ COLUMNAS = [
     "generos", "desarrollador", "editor", "franquicia",
     "etiquetas", "caracteristicas", "num_idiomas",
     "windows", "mac", "linux", "acceso_anticipado", "contenido_adulto", "usa_ia",
-    "ram_min_gb", "disco_min_gb", "descripcion_corta",
+    "ram_min_gb", "disco_min_gb",
     "posicion_ventas", "fecha_extraccion",
 ]
 
