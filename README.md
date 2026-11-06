@@ -4,8 +4,8 @@ Asignatura: M2.851 Tipología y ciclo de vida de los datos (UOC).
 
 ## Integrantes del grupo
 
-- Integrante 1: _(nombre y apellidos)_
-- Integrante 2: _(nombre y apellidos)_
+- Integrante 1: Carlos Bello Erla 
+- Integrante 2: Eric Chaume García
 
 ## Descripción
 
